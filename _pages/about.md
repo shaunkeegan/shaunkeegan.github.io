@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About me
 
 I'm a Research Fellow at the London School of Hygiene & Tropical Medicine, where I study the epidemiology of infectious diseases using statistical and mathematical modelling. My work focuses on understanding how pathogens spread, with the goal of informing public health interventions — particularly in the context of vaccine development and antimicrobial resistance. I have a strong interest in statistical epidemiology, mathematical models of infectious disease, and the dynamics of coinfection.
 
@@ -25,4 +23,4 @@ At the University of Glasgow, I worked on mathematical models exploring the spre
 
 I’m also interested in how parasites interact within hosts and how these interactions influence transmission across landscapes. I used spatially structured models to study how heterogeneity in distributions of infected hosts affected the spread of co-infecting pathogens. This work has led me to investigate both competitive and facilitative interactions among parasites, and how they shape infection risk at the individual and population level. This work was primarily carried out during my PhD at the University of Liverpool, however some further publications will be released in due course.
 
-# 
+
