@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Biological Sciences, University of Liverpool, 2020 
+* Bsc (hons) in Zoology, University of Glasgow, 2015
 
-Work experience
+Work history
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* February 2023 - Present: Research Fellow
+  * London School of Hygiene and Tropical Medicine
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* July 2019 - February 2023: Research Assistant
+  * University of Glasgow
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Society Memberships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Royal Statistical Society (Fellow)
+  * Committee Member, Glasgow Local Group
+* British Ecological Society (2015 - 2021)
+  * Committee Member, Quantitative Ecology Special Interest Group (2016 -2021)
+
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+
 
 Publications
 ======
@@ -59,6 +56,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
