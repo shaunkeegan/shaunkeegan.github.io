@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Research Fellow"
-  location         : "Scotland"
+  bio              : "Epidemiologist & Disease Ecologist"
+  location         : "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
   employer         : "LSHTM"
   uri              : # URL
   email            : "drshaunkeegan@gmail.com" 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "shaunkeegan.bsky.app" # Replace this with you Bluesky username
+  bluesky          : "shaunkeegan.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
