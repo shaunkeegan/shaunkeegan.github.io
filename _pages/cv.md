@@ -20,9 +20,12 @@ editor_options:
 # Work history
 
 -   February 2023 - Present: Research Fellow
-       *London School of Hygiene and Tropical Medicine*
+
+    *London School of Hygiene and Tropical Medicine*
+
 -   July 2019 - February 2023: Research Assistant
-       *University of Glasgow*
+
+    *University of Glasgow*
 
 # Society Memberships
 
@@ -34,9 +37,10 @@ editor_options:
 
 # Additional Roles
 
--   Athena Swan Committee: School of Biodiversity, One Health and Veterinary Medicine, University of Glasgow 2019-2021 
--   LGBTQ+ inclusivity in Biology: Insititue of Integrative Biology, University of Liverpool, 2018-2019
-
+-   Athena Swan Committee: School of Biodiversity, One Health and
+    Veterinary Medicine, University of Glasgow 2019-2021
+-   LGBTQ+ inclusivity in Biology: Insititue of Integrative Biology,
+    University of Liverpool, 2018-2019
 
 # Publications
 
