@@ -1,5 +1,5 @@
 ---
-title: "MSc Module - University of Glasgow 2022 - Present"
+title: "MSc Module Epidemiology of Infectious Disease and Antimicrobial Resistance  - University of Glasgow 2022 - Present"
 collection: teaching
 type: "Recurring Guest Lecture"
 permalink: /teaching/MSc_UofG
