@@ -352,3 +352,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+main:
+  - title: "Blog"
+    url: /blog/
