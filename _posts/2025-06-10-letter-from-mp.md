@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "My letter to my MP regarding the UK Supreme Court's ruling in FWS v Scottish Ministers"
-date: 2025-05-12
+title: "My letter from my MP regarding the UK Supreme Court's ruling in FWS v Scottish Ministers"
+date: 2025-06-10
 tags:
   - LGBTQ+
   - LGBTQSTEM
