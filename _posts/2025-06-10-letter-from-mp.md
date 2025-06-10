@@ -1,48 +1,48 @@
 ---
 layout: single
-title: "My letter from my MP regarding the UK Supreme Court's ruling in FWS v Scottish Ministers"
+title: "My letter FROM my MP regarding the UK Supreme Court's ruling in FWS v Scottish Ministers"
 date: 2025-06-10
 tags:
   - LGBTQ+
   - LGBTQSTEM
 ---
 
-Dear Katrina Murray MP,
+I have posted the reply I received from my MP in reply to my letter of the [12th of May](https://shaunkeegan.github.io/letter-to-mp/). The below reply was received on the 4th of June 2025, which I think is within the expected reply times for MPs for most issues.
 
-For the purposes of confirming I am writing to the appropriate MP, I would like to confirm I am a resident of the Cumbernauld and Kirkintilloch constituency which you represent. I would also like to take this moment to congratulate you on your election last July.
+Firstly, I am happy with the tone she strikes, in particular rejecting the concept of a hierarchy of rights. Additionally I am pleased to see that she is unhappy with the interim EHRC guidance. Alarmingly though, the day after I received this reply, the Labour government have [announced](https://www.gov.uk/government/news/government-announces-preferred-candidate-for-chair-of-equality-and-human-rights-commission) a [known 'gender critical' adherent](https://www.prideinlabour.org.uk/post/labour-s-endorsement-of-ehrc-chair-raises-serious-concerns) to replace Baroness Falkner as Chair of the EHRC. This is an overtly political decision for a supposedly neutral body.
 
-I am writing today about the recent decision by the Supreme Court of the United Kingdom (henceforth UKSC) in the case of For Women Scotland Ltd. v Scottish Ministers. The decision of the court is nothing short of terrifying for a large group of people who have had their basic human rights seemingly repealed to cheers and celebration. I have considered this ruling for some weeks, and how I would like to ask for representation in regard to it.
+I am also concerned that my questions regarding the Prime Minister and the Minister for Women and Equalities statements that support the interim EHRC guidance, and their potentially serious impact on the rights of trans people, gay people and women were simply ignored. Whether the Prime Minister is biologically illiterate or not (he is), it was not intended as a gotcha - his adherence to biological nonsense has serious implications for so many people across society, not only the trans community who he has decided throwing to the wolves as politically convenient.
 
-There are a number of issues arising as a consequence of this ruling. The court has re-defined what gay men are. Am I no longer gay, because I do not require a birth certificate, or genital checks on men whom I find attractive for example? Then there is the Equality and Human Rights Commission’s (EHRC henceforth) gross over-step in insisting that gay men and women no longer have the right to assembly per their interim guidance, in violation of Article 11 of the European Convention on Human Rights (ECHR henceforth). Additionally, there is the implication from the EHRC that transgender people no longer have a right to privacy as per the ECHR (Article 8), as they insist trans people out themselves by using gender non-conforming facilities. These are serious, serious issues. I would like to centre my letter today on an area where I can write with some expertise and ask your position as my constituency MP.
+Once you decide that one group of people's human rights are negotiable, you open the door to all rights being on the chopping block whenever it is politically suitable to the government of the day.
 
-I am a biologist. I am well experienced – it is coming up on 21 years since I sat in my first undergraduate biology class. I have a PhD in biological sciences. I can assure you that I have not the slightest clue what UKSC means when it refers to “biological woman” or “biological man”. There are many, many characteristics of sex, and these are not always congruent. It has been said many times by many experts that sex is inherently bimodal, or simply put, taken together there are two broad peaks in distributed data. Saying sex is binary is as ludicrous to a biologist as saying atoms are all either hydrogen or helium because near 100% of atoms are one of the two would be to a chemist or physicist, indeed we would not exist were this the case. I can only agree with the strongly worded statement of the British Medical Association that the ruling is “biologically nonsensical” and "scientifically illiterate".
+Most importantly; trans women are women, trans men are men, and non-binary people are non-binary.
 
-Related to this, but not directly following on from the UKSC ruling, is the now widely discredited Cass Review. This document is shambolic and should not be used to inform policy. It would fail a mid-stage undergraduate assessment as a review, due to its poor methodology. I have included the most recent peer reviewed study of this as a citation below for your convenience.
+In solidarity,
 
-I have some specific questions:
+Shaun
 
--   Do you agree with the Prime Minister, against the opinions of the scientific and medical establishment, that trans women are not women, and that trans men are not men?
+🏳️‍🌈🤝🏻🏳️‍⚧️
 
-    -   If so, what does the Prime Minister know that clinicians and scientists do not?
-
--   Do you agree with the medical and scientific establishment that the Cass Review is an inappropriate document to base policy on?
-
-    -   If not, what information does the Prime Minister, and the Secretary of State for Health and Social Care have that the medical and scientific establishment do not?
-
--   Will you as a parliamentarian vote to affirm the identity and rights of trans people to present and live as their acquired gender?
-
--   Will you affirm the rights of gay men and women to freely associate pursuant to article 11 of the ECHR, against the interim guidance of the EHRC?
-
--   Will you affirm the rights of trans people’s privacy pursuant to article 8 of the ECHR, against the interim guidance of the EHRC?
-
-Issues around transgender people in society have been inflamed by far right voices, and have encroached into the mainstream as a “culture war” wedge these last few years. I think we can agree that biology is biology – and biology does not agree with the Prime Minister.
-
-I hope to hear from you soon on these issues with direct answers to my above questions. Real people are suffering as a result of the UKSC ruling, and the cruel and scientifically incomprehensible statements from the Prime Minister.
-
-Yours sincerely,
-
-Dr Shaun Keegan
-
-References:
-
-Noone, C., Southgate, A., Ashman, A. et al. Critically appraising the cass report: methodological flaws and unsupported claims. BMC Med Res Methodol 25, 128 (2025). <https://doi.org/10.1186/s12874-025-02581-7>
+> Dear Shaun,\
+>
+> Thank you for getting in touch about this very important issue. \
+>
+> The ruling by the Supreme Court on April 16th has understandably caused concern for many different groups. Everyone has the right to live a dignified life, grounded in respect and inclusion. \
+>
+> The Equality Act 2010 contains no hierarchy of protected characteristics, and the rights and protections enshrined in this legislation remain in place. I do not believe that trans rights and women’s rights need to be in conflict. \
+>
+> I understand that the Supreme Court's decision has been deeply troubling. Before my election, I frequently referred to the Equality Act 2010 in my work representing UNISON members. My understanding of the judgment is that the Supreme Court has reaffirmed that transgender people are protected under the characteristic of “gender reassignment.” While this terminology may now seem outdated and not reflective of current language, both the Equality Act and the Court’s judgment are clear in affirming that being transgender, at whatever stage of the journey a person is at, is a protected characteristic. \
+>
+> It is essential that organisations and institutions clearly acknowledge this as they update their policies and guidance. Nuance, proportionality and sensitivity are vital when dealing with anyone’s human rights. I am concerned that the interim guidance issued by the Equality and Human Rights Commission does not seem to reflect this sensitivity. While the EHRC is an independent statutory body, I will continue to represent the views and experiences of my constituents to ensure that all protected characteristics are upheld. \
+>
+> I hope that we can now begin to move away from the heated and toxic debates that make it harder for people to live safely and with support. \
+>
+> What I am reminded of daily through my conversations with constituents is that the vast majority of people are kind and compassionate. If there is a particular service or issue that is causing you concern, please let me know. \
+>
+> I would welcome the opportunity for you to contact my office to arrange a time to speak—whether at a surgery or in another setting. \
+>
+> Best wishes,
+>
+> Katrina Murray \
+>
+> Member of Parliament for Cumbernauld and Kirkintilloch 
