@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Fellow at the London School of Hygiene & Tropical Medicine, where I study the epidemiology of infectious diseases using statistical and mathematical modelling. My work focuses on understanding how pathogens spread, with the goal of informing public health interventions — particularly in the context of vaccine development and antimicrobial resistance. I have a strong interest in statistical epidemiology, mathematical models of infectious disease, and the dynamics of coinfection.
+I'm a Research Fellow at the London School of Hygiene & Tropical Medicine, where I work on the epidemiology of infectious diseases using statistical and mathematical modelling. My work focuses on understanding how pathogens spread, with the goal of informing public health interventions — particularly in the context of vaccine development and antimicrobial resistance. I have a strong interest in statistical epidemiology, mathematical models of infectious disease, and the dynamics of coinfection.
 
 # Research Interests
 
