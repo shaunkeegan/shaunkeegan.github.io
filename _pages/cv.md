@@ -43,7 +43,7 @@ editor_options:
 # Society Memberships
 
 -   Royal Statistical Society (Fellow)
-    -   Committee Member, Glasgow Local Group
+    -   Committee Member, Glasgow Local Group (2024 -2025)
 -   British Ecological Society (2015 - 2021)
     -   Committee Member, Quantitative Ecology Special Interest Group
         (2016 -2021)
