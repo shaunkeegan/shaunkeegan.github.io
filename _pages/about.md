@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Fellow at the London School of Hygiene & Tropical Medicine, where I work on the epidemiology of infectious diseases using statistical and mathematical modelling. My work focuses on understanding how pathogens spread, with the goal of informing public health interventions — particularly in the context of vaccine development and antimicrobial resistance. I have a strong interest in statistical epidemiology, mathematical models of infectious disease, and the dynamics of coinfection.
+I am an epidemiologist, with an interest in using statistical and mathematical methods to gain an understanding of infectious disease prevalence, distribution and spread. Currently I am a Research Fellow at the London School of Hygiene and Tropical Medicine.
 
 # Research Interests
 
 ### Seroepidemiology of *Klebsiella pneumoniae*
 
-I'm currently working on a project funded by the Bill and Melinda Gates Foundation to improve our understanding of *Klebsiella pneumoniae*, a major cause of neonatal sepsis globally. My focus is on mapping the seroepidemiology of this pathogen — identifying where and in whom it circulates — to support the development of effective vaccines. I also provide statistical support to the project’s seroepidemiology app and am developing resources to help other researchers adopt Bayesian methods for prevalence estimation.
+My current research focuses on the global distribution of capsule and O types of Klebsiella pneumoniae as a causative agent of neonatal sepsis. Sepsis is a leading cause of newborn deaths globally, with around 20% being caused by K. pneumoniae. Capsular polysacharrides are ideal vaccine targets, however in K. pneumoniae this is notably very diverse (\> 100 K loci). Using Bayesian statistical methods, I have been exploring the potential composition required for a maternal 20 valent vaccine to protect against 70% of capsular types seen in neonates in Africa and South Asia. The initial phase of this work has been recently published, and there is ongoing follow ups exploring how these estimates can be weighed to ensure a more equitable vaccine coverage, based on a range of factors such as population, birth rates, case fatalities and more.  I am also exploring the impact of study design across multiple spatial scales with the goal of understanding the impact of number of study sites and heterogeneity of study sites on national and regional estimates. A key consideration is ensuring that monitoring cases in done in the most effective manner possible in resource limited areas. 
 
 ### Antimicrobial Resistance in African Animal Trypanosomiasis (AAT)
 
