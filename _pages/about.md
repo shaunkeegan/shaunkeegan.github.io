@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an epidemiologist, with an interest in using statistical and mathematical methods to gain an understanding of infectious disease prevalence, distribution and spread. Currently I am a Research Fellow at the London School of Hygiene and Tropical Medicine.
+I am an epidemiologist, with an interest in using statistical and mathematical methods to gain an understanding of infectious disease prevalence, distribution and spread. Currently I am a Research Fellow at the University of Strathclyde. 
 
 # Research Interests
 
